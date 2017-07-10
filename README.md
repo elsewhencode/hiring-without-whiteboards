@@ -184,6 +184,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Mapbox](https://www.mapbox.com/jobs/) | SF, DC, Ayacucho, Bangalore, Berlin, Remote | Conversational interviews, paid onsite project with team.
 - [Mavenlink](https://www.mavenlink.com/careers) | San Francisco, Irvine, Salt Lake City | On-site pairing with multiple engineers. Pairing excercises and pairing on company code.
 - [Maxwell Health](https://www.maxwellhealth.com/careers) | Boston, MA | Take-home exercise or pairing session with team. Then conversational meetings with members of the team.
+- [Me & Company](https://me-company.de/jobs/) | Düsseldorf, Germany | You join us for one or two paid trial days to work on an assignment and to meet the team.
 - [Media Pop](https://mediapop.co) | Singapore | Take-home or unsupervised (onsite) real-world assignment
 - [Mercatus](https://www.mercatus.com/company/careers/) | Toronto, Canada | Practical on-site project similar to daily work
 - [MixMax](https://mixmax.com/careers/) | San Francisco, CA | Takehome assignment purely based on their platform, followed by phone interview
